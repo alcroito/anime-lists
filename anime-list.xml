@@ -28061,6 +28061,9 @@
   <anime anidbid="13260" tvdbid="349418" defaulttvdbseason="1">
     <name>SSSS.Gridman</name>
   </anime>
+  <anime anidbid="13261" tvdbid="movie" defaulttvdbseason="1" tmdbid="553600" imdbid="tt9116358">
+    <name>Promare</name>
+  </anime>
   <anime anidbid="13262" tvdbid="movie" defaulttvdbseason="1" imdbid="tt7339826">
     <name>Sayonara no Asa ni Yakusoku no Hana o Kazarou</name>
   </anime>
